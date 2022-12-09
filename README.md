@@ -85,7 +85,7 @@ urlpatterns = [
 python manage.py runserver
 ~~~
 
-9. Go to localhost:8000/graphql and type your first query!
+9. Go to `localhost:8000/graphql` and type your first query!
 
 ~~~
 query{
@@ -100,6 +100,7 @@ query{
 
 ![Query](docs/img/1.png)
 
+You can found another examples actions in [actions.md](docs/actions.md)
 
 ## Summary
 As you can see, GraphQL is very powerful and integrating Django models allows you to get started with a working server quickly.
